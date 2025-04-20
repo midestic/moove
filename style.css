@@ -556,7 +556,7 @@
   }
 
   .mNav1 {
-    width: 35%;
+    width: 40%;
     /* border: 1px solid; */
     display: flex;
     justify-content: space-between;
@@ -750,7 +750,7 @@
   .sect3Div {
     /* border: 1px solid; */
     padding: 0;
-    width: 90%;
+    width: 100%;
   }
 
   .whyDiv {

@@ -1,3 +1,14 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.overallDiv {
+  max-width: 1366px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
